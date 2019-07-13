@@ -1,0 +1,5 @@
+Mean Training Region Length:  5003013.851323829
+Mean Test Region Length:  4772723.490909091
+sum of lens in train set:  2456479801
+sum of lens in test set:  262499792
+true length proportion:  0.10686014674052677
